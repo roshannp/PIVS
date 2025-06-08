@@ -109,7 +109,6 @@ pivs/
 }
 ```
 
-<<<<<<< HEAD
 **EXAMPLE OUTPUT**
 
 **Without Vulnerability Scanner:
