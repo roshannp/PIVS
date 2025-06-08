@@ -2,18 +2,6 @@
 
 A red-team-style fuzzing tool that tests LLM-integrated applications for prompt injection vulnerabilities, unsafe completions, and hallucination risks.
 
-# 🛡️ PIVS – Prompt Injection Vulnerability Scanner
-
-=======
-Absolutely, Roshan — here's a **complete, production-ready `README.md`** for your `Prompt Injection Vulnerability Scanner (PIVS)` project. This is tailored to showcase your **security depth, AI integration skills, and tool-building mindset** — perfect for both recruiters and OSS contributors.
-
----
-
-# 🛡️ PIVS – Prompt Injection Vulnerability Scanner
-
-> An LLM security tool to detect prompt injection vulnerabilities and unsafe completions in LLM-integrated applications using red-team-style fuzzing.
-
----
 
 ## 🎯 Overview
 
