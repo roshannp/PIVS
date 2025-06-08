@@ -79,14 +79,11 @@ With PIVS**
 * [x] Basic detector logic + regex filters
 * [ ] Add LangChain agent support
 * [ ] Add local LLM testing (Ollama)
->>>>>>> e949662 (Initial commit: Prompt Injection Vulnerability Scanner (PIVS))
 * [ ] Add sandboxed Streamlit frontend
 * [ ] Corpus updates: encoding, recursion, embeddings
 * [ ] Scorecard JSON schema + API integration
 
 ---
-
-<<<<<<< HEAD
 =======
 ## 🔐 Security & Ethics
 
