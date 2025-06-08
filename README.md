@@ -1,4 +1,4 @@
-# Prompt-Injection Scanner
+# Prompt-Injection Vulnerability Scanner
 
 A red-team-style fuzzing tool that tests LLM-integrated applications for prompt injection vulnerabilities, unsafe completions, and hallucination risks.
 
