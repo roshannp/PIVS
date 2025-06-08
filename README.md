@@ -126,6 +126,27 @@ Recommendations:
 ```
 
 ---
+**EXAMPLE OUTPUT**
+
+Without Vulnerability Scanner:
+
+<img width="1487" alt="Vulnerable" src="https://github.com/user-attachments/assets/b2fedb4a-bad5-475c-8f44-107e6a256299" />
+
+
+After Securing 
+
+
+<img width="1487" alt="Good one" src="https://github.com/user-attachments/assets/13da9448-bc0e-4391-b455-7ac863ccc4f7" />
+
+
+
+
+
+
+
+
+
+
 
 ## 🗺️ Roadmap
 
