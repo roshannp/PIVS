@@ -61,8 +61,8 @@ With PIVS**
 
 <img width="1487" alt="Good one" src="https://github.com/user-attachments/assets/13da9448-bc0e-4391-b455-7ac863ccc4f7" />
 
-**
-COMMAND:**
+
+**COMMAND:**
 
 python cli.py --target-type local --target mistral --prompts prompts/
 
